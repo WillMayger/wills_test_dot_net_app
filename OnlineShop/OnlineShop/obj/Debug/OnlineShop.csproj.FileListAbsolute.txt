@@ -91,3 +91,5 @@ C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\On
 C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
 C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
 C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
