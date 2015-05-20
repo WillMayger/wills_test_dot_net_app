@@ -1,0 +1,93 @@
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\bin\ShoppingBasketResources.dll
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\OnlineShop\bin\ShoppingBasketResources.pdb
+C:\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\OnlineShop\OnlineShop\bin\ShoppingBasketResources.dll
+C:\OnlineShop\OnlineShop\bin\ShoppingBasketResources.pdb
+C:\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+C:\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\bin\ShoppingBasketResources.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\bin\ShoppingBasketResources.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB1\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB1\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB1\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB1\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB1\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB1\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB1\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB2\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB2\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB3\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB3\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB3\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB3\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB3\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB3\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB3\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB4\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB4\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB4\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB4\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB4\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB4\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\AB4\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\TemplateSolutionStillToRemoveCode\TemplateSolutionStillToRemoveCode\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\TemplateSolutionStillToRemoveCode\TemplateSolutionStillToRemoveCode\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\TemplateSolutionStillToRemoveCode\TemplateSolutionStillToRemoveCode\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\TemplateSolutionStillToRemoveCode\TemplateSolutionStillToRemoveCode\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\TemplateSolutionStillToRemoveCode\TemplateSolutionStillToRemoveCode\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\TemplateSolutionStillToRemoveCode\TemplateSolutionStillToRemoveCode\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\TemplateSolutionStillToRemoveCode\TemplateSolutionStillToRemoveCode\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\Restructured - OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\Restructured - OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\Restructured - OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\Restructured - OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\Restructured - OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\Restructured - OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\Courseware\Developer Apprentice\QACSDEVAPRB2 V1.0\Web Assignment\Restructured - OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QAAPRCSMVC\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QAAPRCSMVC\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\Courseware\Developer Apprentice\QAAPRCSMVC\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\Courseware\Developer Apprentice\QAAPRCSMVC\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\EntityFramework.dll
+E:\Courseware\Developer Apprentice\QAAPRCSMVC\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\bin\EntityFramework.xml
+E:\Courseware\Developer Apprentice\QAAPRCSMVC\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\Courseware\Developer Apprentice\QAAPRCSMVC\Web Assignment\OnlineShopTemplateStarter\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVC Exam Required Starter Files\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Administrator\Desktop\MVC Exam Required Starter Files\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Administrator\Desktop\MVC Exam Required Starter Files\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\MVC Exam Required Starter Files\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\MVC Exam Required Starter Files\OnlineShop\OnlineShop\OnlineShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVC Exam Required Starter Files\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Administrator\Desktop\MVC Exam Required Starter Files\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.dll
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\bin\EntityFramework.xml
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\A584501\Desktop\WillMaygerMVCWebExam\WillMaygerMVCWebExam\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb

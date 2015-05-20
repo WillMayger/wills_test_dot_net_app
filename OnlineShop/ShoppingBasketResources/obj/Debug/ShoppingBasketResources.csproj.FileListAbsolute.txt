@@ -1,0 +1,20 @@
+C:\VS\ShoppingCart\ShoppingBasketResources\bin\Debug\ShoppingBasketResources.dll
+C:\VS\ShoppingCart\ShoppingBasketResources\bin\Debug\ShoppingBasketResources.pdb
+C:\VS\ShoppingCart\ShoppingBasketResources\obj\Debug\ResolveAssemblyReference.cache
+C:\VS\ShoppingCart\ShoppingBasketResources\obj\Debug\ShoppingBasketResources.dll
+C:\VS\ShoppingCart\ShoppingBasketResources\obj\Debug\ShoppingBasketResources.pdb
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\ShoppingBasketResources\bin\Debug\ShoppingBasketResources.dll
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\ShoppingBasketResources\bin\Debug\ShoppingBasketResources.pdb
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\ShoppingBasketResources\obj\Debug\ResolveAssemblyReference.cache
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\ShoppingBasketResources\obj\Debug\ShoppingBasketResources.dll
+E:\QACSDEVAPRB2\WebAssignment\OnlineShop\ShoppingBasketResources\obj\Debug\ShoppingBasketResources.pdb
+C:\OnlineShop\ShoppingBasketResources\bin\Debug\ShoppingBasketResources.dll
+C:\OnlineShop\ShoppingBasketResources\bin\Debug\ShoppingBasketResources.pdb
+C:\OnlineShop\ShoppingBasketResources\obj\Debug\ResolveAssemblyReference.cache
+C:\OnlineShop\ShoppingBasketResources\obj\Debug\ShoppingBasketResources.dll
+C:\OnlineShop\ShoppingBasketResources\obj\Debug\ShoppingBasketResources.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\ShoppingBasketResources\bin\Debug\ShoppingBasketResources.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\ShoppingBasketResources\bin\Debug\ShoppingBasketResources.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\ShoppingBasketResources\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\ShoppingBasketResources\obj\Debug\ShoppingBasketResources.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\mvc\New MVC WEb Assignment\SampleSolutionWithShoppingBasketSourceCode\OnlineShop\ShoppingBasketResources\obj\Debug\ShoppingBasketResources.pdb

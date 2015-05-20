@@ -1,0 +1,52 @@
+﻿@model IEnumerable<QA.Resources.BasketItem>
+
+<table>
+    <tr>
+    <th></th>
+    <th>
+            GameID
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Quantity
+        </th>
+        <th>
+            Unit Price
+        </th>
+        <th>
+            Item Total
+        </th>
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+    <td>
+            @Html.ActionLink("Adjust Quantity", "AdjustQuantity", new { id = item.ID }) |
+            @Html.ActionLink("Remove", "Remove", new { id = item.ID })
+        </td>
+    <td>
+     @Html.DisplayFor(modelItem => item.ID)
+    </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td>
+            £@Html.DisplayFor(modelItem => item.UnitPrice)
+        </td>
+        <td>
+            £@Html.DisplayFor(modelItem => item.ItemTotal)
+        </td>
+        
+    </tr>
+}
+<tr>
+<th></th><th></th><th></th><th></th><th>Total Order Value:</th><th>£@ViewBag.TotalBasketCost </th>
+</tr>
+
+</table>

@@ -1,0 +1,40 @@
+﻿@model QA.Resources.BasketItem
+
+@{
+    ViewBag.Title = "Remove";
+}
+
+<h2>Remove Item</h2>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary("These few things went wrong:")
+<fieldset>
+    <legend>Order Item</legend>
+
+    <div class="display-label">Name</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">Quantity</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Quantity)
+    </div>
+     <input type="hidden" name="Game_ID" value="@ViewBag.game_id" />
+    <div class="display-label">UnitPrice</div>
+    <div class="display-field">
+        £@Html.DisplayFor(model => model.UnitPrice)
+    </div>
+
+    <div class="display-label">ItemTotal</div>
+    <div class="display-field">
+        £@Html.DisplayFor(model => model.ItemTotal)
+    </div>
+     <p>
+            <input type="submit" value="Remove" />
+        </p>
+</fieldset>
+}
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

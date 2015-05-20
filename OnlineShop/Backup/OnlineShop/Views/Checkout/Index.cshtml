@@ -1,0 +1,12 @@
+﻿@model OnlineShop.Models.Customer
+
+@{
+    ViewBag.Title = "QA Games Online Shop";
+}
+
+<h2>Checkout</h2>
+
+@Html.Action("CheckoutPartial")
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

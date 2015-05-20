@@ -1,0 +1,405 @@
+﻿/*----------------------------------------------------------
+The base color for this template is #5c87b2. If you'd like
+to use a different color start by replacing all instances of
+#5c87b2 with your new color.
+----------------------------------------------------------*/
+html
+{
+max-width:100%;
+}
+
+body
+{
+    background-color: #3B2F63;
+    font-size: 100%;
+    font-family: arial; !important
+    margin: 0;
+    padding: 0;
+    color: #696969;
+width:100%;
+margin:0px;
+}
+
+a:link
+{
+    color: #3B2F63;
+    text-decoration: none;
+}
+a:visited
+{
+    color: #3B2F63;
+}
+a:hover
+{
+    color: #8982A1;
+    text-decoration: none;
+}
+a:active
+{
+    color: #8982A1;
+}
+
+p, ul
+{
+    margin-bottom: 20px;
+    line-height: 1.6em;
+}
+
+/* HEADINGS   
+----------------------------------------------------------*/
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 4em;
+    color: #000;
+font-family:arial;
+}
+
+h1
+{
+    font-size: 2em;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+h2
+{
+    padding: 0 0 10px 0;
+}
+h3
+{
+    font-size: 1.2em;
+}
+h4
+{
+    font-size: 1.1em;
+}
+h5, h6
+{
+    font-size: 1em;
+}
+
+/* this rule styles <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0;
+}
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+/* you can specify a greater or lesser percentage for the 
+page width. Or, you can specify an exact pixel width. */
+.page
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header
+{
+    position: relative;
+    margin-bottom: 0px;
+    color: #000;
+    padding: 0;
+}
+
+div #title
+{
+
+}
+
+#header h1
+{
+    font-weight: bold;
+    padding: 5px 0;
+    margin: 0;
+    color: #fff;
+    border: none;
+    line-height: 2em;
+    font-size: 100px !important;
+margin-top:300px;
+}
+
+#main
+{
+    padding: 30px 30px 15px 30px;
+    background-color: #fff;
+    margin-bottom: 30px;
+    _height: 1px; /* only IE6 applies CSS properties starting with an underscore */
+text-align:center;
+}
+
+#footer
+{
+    color: #999;
+    padding: 10px 0;
+    text-align: center;
+    line-height: normal;
+    margin: 0;
+    font-size: .9em;
+}
+
+/* TAB MENU   
+----------------------------------------------------------*/
+ul#menu
+{
+    border-bottom: 1px #3B2F63 solid;
+    padding: 0 0 2px;
+    position: relative;
+    margin: 0;
+    text-align: center;
+}
+
+ul#menu li
+{
+    display: inline;
+    list-style: none;
+margin-left:10px;
+margin-right:10px;
+}
+
+ul#menu li a
+{
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 2.8em;
+    background-color: #3B2F63;
+    color: white;
+border: 1px solid white;
+border-radius:7px;
+}
+
+ul#menu li a:hover
+{
+    background-color: #fff;
+    text-decoration: none;
+color:#3B2F63;
+}
+
+ul#menu li a:active
+{
+    background-color: #a6e2a6;
+    text-decoration: none;
+}
+
+ul#menu li.selected a
+{
+    background-color: #fff;
+    color: #000;
+}
+
+/* FORM LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset 
+{
+    border:1px solid #3B2F63;
+    padding:0 1.4em 1.4em 1.4em;
+    margin:0 0 1.5em 0;
+color:#2F264F; !important
+}
+
+#main h2{
+color:#2F264F; !important
+}
+
+legend 
+{
+    font-size:1.2em;
+    font-weight: bold;
+}
+
+textarea 
+{
+    min-height: 75px;
+}
+
+input[type="text"] 
+{
+    width: 200px;
+    border: 1px solid #CCC;
+}
+
+input[type="password"] 
+{
+    width: 200px;
+    border: 1px solid #CCC;
+}
+
+/* TABLE
+----------------------------------------------------------*/
+
+table 
+{
+margin:auto;
+text-align:center;
+  border: solid 1px #e8eef4;
+  border-collapse: collapse;
+  margin-bottom:50px;
+}
+
+table td 
+{
+  padding: 5px;   
+  border: solid 1px #e8eef4;
+}
+
+table th
+{
+  padding: 6px 5px;
+  text-align: left;
+  background-color: #e8eef4; 
+  border: solid 1px #e8eef4;   
+}
+
+/* MISC  
+----------------------------------------------------------*/
+.clear
+{
+    clear: both;
+}
+
+.error
+{
+    color:Red;
+}
+
+#menucontainer
+{
+height:200px;
+text-align:center;
+}
+
+div#title
+{
+    display:block;
+    height:250px;
+    width:100%;
+    background-color:#3B2F63;
+    text-align:center;
+}
+
+#logindisplay
+{
+    font-size:1.1em;
+    display:block;
+    text-align:center;
+    margin:10px;
+    color:White;
+padding-top:50px;
+padding-bottom:50px;
+border-top: 1px solid white;
+width:100%;
+margin-top:-70px;
+}
+
+#logindisplay a:link
+{
+    color: white;
+    text-decoration: underline;
+}
+
+#logindisplay a:visited
+{
+    color: white;
+    text-decoration: underline;
+}
+
+#logindisplay a:hover
+{
+    color: white;
+    text-decoration: none;
+}
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+/* Styles for editor and display helpers
+----------------------------------------------------------*/
+.display-label,
+.editor-label
+{
+    margin: 1em 0 0 0;
+}
+
+.display-label, #submitbtn
+{
+width:30%;
+    border-top: 1px solid #DCDAE3;
+    padding-top: 40px;
+padding-bottom: 40px;
+margin:auto; !important
+
+}
+
+.display-field,
+.editor-field
+{
+    margin:0.5em 0 0 0;
+}
+
+.text-box
+{
+    width: 30em;
+}
+
+.text-box.multi-line
+{
+    height: 6.5em;
+}
+
+.tri-state
+{
+    width: 6em;
+}
+
+input#Next
+{
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 2.8em;
+    background-color: white ;
+    color:#2F264F;
+border: 1px solid #3B2F63;
+border: 1px solid #3B2F63;
+border-radius:7px;
+width:100px;
+height:40px;
+text-align:center;
+}
+
+#logodisplay
+{
+    text-align:center;
+    padding-bottom:20px;
+/*
+WILLS CSS FILE!!!!!
+*/
